@@ -85,6 +85,11 @@ h1{
   text-align: center;
 }
 
+.profile{
+  font-size: 25px;
+
+}
+
 #fruits{
   font-size: 30px;
   font-family: "Bahnschrift", sans-serif;
